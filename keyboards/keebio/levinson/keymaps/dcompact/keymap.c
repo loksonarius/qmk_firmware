@@ -11,7 +11,6 @@
 #define WKSP_U LALT(LCTL(KC_UP))
 #define WKSP_R LALT(LCTL(KC_RGHT))
 
-
 extern keymap_config_t keymap_config;
 
 enum planck_layers {
